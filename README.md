@@ -19,50 +19,55 @@ Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất d�
 - Có hai loại hệ thống số: có vị trí (ví dụ thập phân, nhị phân) và không có vị trí (ví dụ số La Mã).
 - Các hệ thống cơ bản gồm thập phân (cơ số 10), nhị phân (cơ số 2), bát phân (cơ số 8), và thập lục phân (cơ số 16).
 ### 3. Chuyển đổi giữa các hệ thống số:
-Hướng dẫn cách chuyển đổi giữa các hệ, ví dụ từ thập phân sang nhị phân và ngược lại.
+Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.Chuyển đổi từ hệ bất kỳ sang hệ thập phân bằng cách nhân mỗi chữ số với giá trị vị trí của nó. Từ thập phân sang hệ khác bằng phép chia lặp cho phần nguyên và nhân lặp cho phần thập phân.
 ### 4. Số nguyên có dấu:
 Cách biểu diễn số âm và số dương trong hệ nhị phân, sử dụng các phương pháp như số bù 1, bù 2.
 ### 5. Phép cộng và trừ trên số nguyên:
-Giới thiệu các phép cộng, trừ trên số nguyên có và không có dấu, kèm ví dụ về các trường hợp tràn số khi tính toán.
-## Bài 3: Kĩ Năng Sử Dụng Máy Tính và Công Cụ
-###  1: Các Khái Niệm Cơ Bản
-- **Giới thiệu về máy tính:**
-Thiết bị xử lý thông tin với phần cứng (CPU, RAM, ổ cứng, card đồ họa) và phần mềm (hệ điều hành, ứng dụng).
-- **Lịch sử phát triển:**
-Từ các máy cơ học đến các máy tính hiện đại như siêu máy tính và máy tính lượng tử.
-**Các thế hệ máy tính:**
-Gồm 5 thế hệ, từ sử dụng ống chân không đến vi xử lý, AI và máy tính lượng tử.
-### 2: Biểu Diễn Thông Tin Và Hệ Thống Số
-- **Biểu diễn thông tin:**
-Số hóa dữ liệu như âm thanh, hình ảnh; đơn vị đo thông tin từ bit đến GB.
-- **Hệ thống số:**
-Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.Chuyển đổi từ hệ bất kỳ sang hệ thập phân bằng cách nhân mỗi chữ số với giá trị vị trí của nó. Từ thập phân sang hệ khác bằng phép chia lặp cho phần nguyên và nhân lặp cho phần thập phân.
-- **Số nguyên có dấu:**
-Giới thiệu về biểu diễn số âm và dương trong hệ nhị phân (bù 1, bù 2) và phép toán trên số nguyên.
-- **Phép cộng - trừ trên số nguyên:**
 Máy tính thực hiện phép cộng và trừ trên số nhị phân với các quy tắc như cộng bit có nhớ. Khi cộng hoặc trừ số nguyên có dấu, nếu kết quả khác dấu với các số ban đầu, có thể dẫn đến sai lệch do tràn số.
-### 3: Kỹ Năng Sử Dụng Máy Tính Và Công Cụ
-**Quản lý tập tin và thư mục:**
-- *Tập tin:* Đơn vị lưu trữ dữ liệu (text, audio, image) có tên và dung lượng cụ thể.
-- *Thư mục:* Đơn vị logic chứa các tập tin và thư mục con để tổ chức dữ liệu hiệu quả, tránh nhầm lẫn và dễ tìm kiếm.
-- Cấu trúc cây thư mục giúp tổ chức dữ liệu phân cấp từ thư mục gốc, ví dụ, đường dẫn 'tuyệt đối' (C:\Program Files) và 'tương đối' (../../home/my_directory).
+## Bài 3: Kĩ Năng Sử Dụng Máy Tính và Công Cụ
+### 1. Quản lý Tập tin và Thư mục:
+- **Tập tin:** Là đơn vị lưu trữ dữ liệu dưới nhiều định dạng như văn bản, hình ảnh, âm thanh, v.v. Mỗi tập tin bao gồm phần tên và phần mở rộng (ví dụ: `bai_tap.pdf`, `anh.jpg`). Người dùng có thể tạo, chỉnh sửa, sao chép và xóa tập tin bằng các chương trình khác nhau.
 
 
-**Sử dụng Google Drive:**
-Lưu trữ đám mây, tạo và chia sẻ tài liệu trực tuyến.
- 
- 
-**Tìm kiếm thông tin với Google:**
-Kỹ năng tìm kiếm hiệu quả, sử dụng từ khóa và các chức năng nâng cao.
+- **Thư mục:** Là nơi nhóm các tập tin hoặc thư mục con, giúp tổ chức dữ liệu một cách logic theo dự án hoặc mục đích sử dụng. Cấu trúc thư mục thường được biểu diễn dưới dạng cây phân cấp với thư mục gốc và các thư mục con.
 
 
-**Generative AI và ChatGPT:**
-- *Generative AI* là thuật toán AI có khả năng tạo nội dung mới như văn bản, hình ảnh.
-- *ChatGPT* (mô hình Generative Pre-trained Transformer) giúp trả lời câu hỏi bằng ngôn ngữ tự nhiên, với các kỹ thuật đặt câu hỏi (prompting) như Zero-shot, Few-shot và Chain-of-Thought để tối ưu kết quả.
+- **Quản lý dữ liệu hiệu quả:** Tổ chức tập tin và thư mục giúp tìm kiếm và truy cập dễ dàng hơn. Đặt tên file/thư mục cần rõ ràng, tránh sử dụng ký tự đặc biệt (ví dụ: ?, /, *, <, “, >).
 
 
-**Đạo đức sử dụng máy tính**
-Sử dụng AI để hỗ trợ học tập, không phục vụ gian lận. Người dùng cần kiểm chứng thông tin từ AI.
+**Đường dẫn:** Mỗi tập tin/thư mục có một đường dẫn xác định vị trí của nó trong hệ thống.
+### 2. Google Drive:
+- **Dịch vụ lưu trữ đám mây:** Google Drive là một dịch vụ lưu trữ trực tuyến miễn phí, cho phép người dùng lưu trữ và truy cập dữ liệu từ nhiều thiết bị. Người dùng có thể sử dụng các ứng dụng web như Google Docs, Sheets, và Slides để làm việc trực tiếp trên Google Drive.
+
+
+- **Tính năng chia sẻ:** Google Drive hỗ trợ việc chia sẻ tệp tin và thư mục với người khác, với quyền hạn khác nhau như chỉ xem hoặc chỉnh sửa. Tính năng này giúp cộng tác làm việc nhóm hiệu quả và an toàn hơn.
+
+
+- **Cách truy cập và sử dụng:** Người dùng chỉ cần đăng nhập vào tài khoản Google và truy cập Google Drive qua trình duyệt hoặc ứng dụng Drive trên thiết bị di động. Có thể tạo thư mục và tệp tin trực tiếp trên Google Drive và quản lý chúng như trên máy tính cá nhân.
+### 3. Tìm kiếm với Google Search:
+
+**Công cụ tìm kiếm (Search Engine):** Google Search cho phép người dùng tìm kiếm nội dung từ cơ sở dữ liệu chứa hàng tỷ trang web. Hệ thống làm việc qua ba giai đoạn:
+- *Crawling:* Google sử dụng phần mềm crawler để tự động thu thập các trang web.
+- *Indexing:* Google phân tích và lưu trữ nội dung (văn bản, hình ảnh, video) vào cơ sở dữ liệu của mình.
+- *Serving search results:* Khi người dùng nhập truy vấn, Google trả về kết quả phù hợp.
+
+
+**Kỹ thuật tìm kiếm hiệu quả:**
+- *Sử dụng từ khóa cụ thể:* Thay vì tìm kiếm chung chung, người dùng nên dùng từ khóa chính xác hơn. Ví dụ, thay vì "điện thoại", nên dùng "điện thoại Samsung Galaxy S21".
+- *Tìm kiếm cụm từ chính xác:* Đặt từ khóa trong dấu ngoặc kép để tìm cụm từ chính xác (ví dụ: "hướng dẫn cài đặt Windows 10").
+- *Loại trừ từ khóa:* Sử dụng dấu trừ ( - ) để loại bỏ kết quả không mong muốn (ví dụ: "túi xách -hàng nhái").
+  ### 4:Generative AI và ChatGPT:
+- **Generative AI:** Là một dạng trí tuệ nhân tạo có khả năng tạo ra nội dung như văn bản, hình ảnh, và âm thanh dựa trên dữ liệu đã học. Điều này giúp tạo ra những nội dung mới và sáng tạo.
+- **ChatGPT:** ChatGPT là một mô hình AI sử dụng công nghệ Generative Pre-trained Transformer, có khả năng hiểu và trả lời câu hỏi của con người bằng ngôn ngữ tự nhiên. ChatGPT có thể được sử dụng trong nhiều lĩnh vực như trả lời câu hỏi, tóm tắt tài liệu, và trợ giúp viết code.
+  ### 5.Prompt Engineering:
+- **Zero-shot Prompting:** Kỹ thuật này yêu cầu AI trả lời câu hỏi mà không cần cung cấp ngữ cảnh hoặc ví dụ trước đó. Ví dụ: “Giải thích khái niệm thuật toán Dijkstra trong 5 câu”.
+- **Few-shot Prompting:** Cung cấp một số ví dụ hoặc ngữ cảnh để AI hiểu rõ yêu cầu hơn. Ví dụ: “Viết code Python để tính tổng của một mảng số nguyên. Đây là ví dụ: [ví dụ code]”.
+- **Chain-of-Thought Prompt:** Hướng dẫn AI suy nghĩ từng bước. Ví dụ: "Hãy giải thích từng bước cách thuật toán quicksort hoạt động.” Điều này hữu ích cho các bài toán yêu cầu suy luận logic.
+### 6.Ứng dụng ChatGPT trong học tập:
+- **Tóm tắt tài liệu học thuật:** Ví dụ, sinh viên có thể yêu cầu ChatGPT tóm tắt một bài báo phức tạp chỉ trong vài câu ngắn gọn.
+- **Giải bài tập lập trình:** ChatGPT có thể trợ giúp viết code hoặc tìm ra lỗi trong mã.
+- **Tìm kiếm thông tin:** Hỏi ChatGPT về các khái niệm hoặc thuật ngữ mới.
+- **Đạo đức sử dụng AI:** Sử dụng ChatGPT với mục đích hỗ trợ học tập, tránh sử dụng như một công cụ để gian lận. Luôn kiểm tra độ chính xác của thông tin từ nhiều nguồn khác nhau.
 ## Bài 4: Hệ Điều Hành Linux
 ### 1. Giới thiệu Linux và Unix:
 - **Unix:**
