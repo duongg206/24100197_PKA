@@ -75,8 +75,10 @@ Bao gồm Ubuntu, Linux Mint, Kali Linux… Sử dụng Debian Package (.deb) v�
 - **Dựa trên Red Hat:**
 Gồm Red Hat Enterprise Linux, Fedora, CentOS… Dùng Red Hat Package (.rpm) và yum.
 ### 3. Hệ thống tệp Linux:
-Thư mục gốc "/" chứa các thư mục con như `/bin` (chương trình), `/etc` (tệp cấu hình), `/home` (thư mục người dùng), `/proc` Chạy chương trình (quy trình), `/tmp` và `/var` Tệp tạm thời, `/usr` Tài nguyên hệ thống phổ quát.
-### 4. Shell và dòng lệnh:
+Thư mục gốc `/` chứa các thư mục con như `/bin` (chương trình), `/etc` (tệp cấu hình), `/home` (thư mục người dùng), `/proc` Chạy chương trình (quy trình), `/tmp` và `/var` Tệp tạm thời, `/usr` Tài nguyên hệ thống phổ quát.
+### 4.Thư mục tương đối:
+`.` Tham khảo thư mục làm việc, `..` Tham khảo cha mẹ của thư mục làm việc, `~username` Danh bạ chính của tên người dùng, `~/Desktop` Màn hình nền của bạn.
+### 5. Shell và dòng lệnh:
 - **Shell:**
 Một chương trình tương tác cho phép người dùng tương tác với hệ điều hành và các ứng dụng của nó.
 - **Cấu trúc dòng lệnh:**
@@ -86,7 +88,7 @@ Bao gồm `pwd` (in thư mục hiện tại), `cd` (thay đổi thư mục), `ls
 - **Lệnh hệ thống:** `clear` Xóa tất cả đầu ra khỏi bảng điều khiển, `date` Xuất ngày hệ thống, `cal` Xuất lịch văn bản, `uname` In thông tin về hệ thống hiện tại
 - **Lệnh thư mục:** `ls` Liệt kê các tập tin trong thư mục làm việc, `pwd` In thư mục làm việc hiện tại, `cd` Thay đổi thư mục làm việc, `mkdir` Tạo một thư mục mới, `rmdir` Xóa thư mục đã cho (phải trống)
 - **Lệnh tệp** `cat` Hiển thị nội dung tệp, `cp` Sao chép tệp, `mv` Di chuyển tệp (cũng được sử dụng để đổi tên tệp), `rm` Xóa tệp đã cho, `touch` Tạo tệp trống hoặc thay đổi thời gian sửa đổi
-### 5. Quyền truy cập hệ thống tệp: 
+### 6. Quyền truy cập hệ thống tệp: 
 Mỗi người dùng có thể sở hữu một hoặc nhiều thư mục '/' tệp. Mỗi người dùng có quyền truy cập khác nhau trong các thư mục / tệp khác nhau.Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh `chmod` thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 ## Bài 5: Kiểm Soát Phiên Bản Với Git
 ### 1. Tổng quan về kiểm soát phiên bản:
