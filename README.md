@@ -59,6 +59,10 @@ Kỹ năng tìm kiếm hiệu quả, sử dụng từ khóa và các chức năn
 **Generative AI và ChatGPT:**
 - *Generative AI* là thuật toán AI có khả năng tạo nội dung mới như văn bản, hình ảnh.
 - *ChatGPT* (mô hình Generative Pre-trained Transformer) giúp trả lời câu hỏi bằng ngôn ngữ tự nhiên, với các kỹ thuật đặt câu hỏi (prompting) như Zero-shot, Few-shot và Chain-of-Thought để tối ưu kết quả.
+
+
+**Đạo đức sử dụng máy tính**
+Sử dụng AI để hỗ trợ học tập, không phục vụ gian lận. Người dùng cần kiểm chứng thông tin từ AI.
 ## Bài 4: Hệ Điều Hành Linux
 ### 1.Giới thiệu Linux và Unix:
 - **Unix:**
@@ -71,7 +75,7 @@ Bao gồm Ubuntu, Linux Mint, Kali Linux… Sử dụng Debian Package (.deb) v�
 - **Dựa trên Red Hat:**
 Gồm Red Hat Enterprise Linux, Fedora, CentOS… Dùng Red Hat Package (.rpm) và yum.
 ### 3.Hệ thống tệp Linux:
-Thư mục gốc "/" chứa các thư mục con như "/bin" (chương trình), "/etc" (tệp cấu hình), "/home" (thư mục người dùng), "/proc" Chạy chương trình (quy trình), "/tmp" và "/var" Tệp tạm thời, "/usr" Tài nguyên hệ thống phổ quát
+Thư mục gốc "/" chứa các thư mục con như "==/bin==" (chương trình), "/etc" (tệp cấu hình), "/home" (thư mục người dùng), "/proc" Chạy chương trình (quy trình), "/tmp" và "/var" Tệp tạm thời, "/usr" Tài nguyên hệ thống phổ quát
 ### 4.Shell và dòng lệnh:
 - **Shell:**
 Một chương trình tương tác cho phép người dùng tương tác với hệ điều hành và các ứng dụng của nó.
@@ -93,15 +97,21 @@ Cho phép nhiều người làm việc cùng lúc mà không ghi đè lên công
 ### 2.Hệ thống kiểm soát phiên bản:
 Sử dụng phần mềm như CVS, SVN, Git để theo dõi thay đổi và quản lý mã nguồn. Git là một lựa chọn phổ biến vì khả năng phân tán và hỗ trợ nhiều nhánh.
 ### 3.Kho lưu trữ (Repositories):
-- **Cục bộ:** Kho lưu trữ trên máy cá nhân.
-- **Từ xa:** Trên GitHub hoặc GitLab, đảm bảo an toàn và chia sẻ dễ dàng.
+**Cục bộ:** Kho lưu trữ trên máy cá nhân. 
+- *Working Directory (Thư mục làm việc)*: Chứa các tệp và thư mục mà bạn đang chỉnh sửa.
+- *Staging Area (Vùng staging):* Khu vực lưu trữ tạm thời các thay đổi đã được sắp xếp nhưng chưa chính thức lưu lại.
+- *Git Directory (Kho lưu trữ):* Nơi lưu trữ các bản commit đã hoàn tất, đóng vai trò là bản sao chính thức của dự án.
+
+
+**Từ xa:** Trên GitHub hoặc GitLab, đảm bảo an toàn và chia sẻ dễ dàng.
 ### 4.Các lệnh Git cơ bản:
 - **"git init":** Khởi tạo kho lưu trữ mới.
 - **"git add":** Thêm tập tin vào vùng chờ (staging area).
 - **"git commit":** Xác nhận thay đổi vào kho lưu trữ cục bộ.
 - **"git push" và "git pull":** Đồng bộ với kho từ xa.
-### 5.Phân nhánh (Branching):
+### 5.Phân nhánh và hợp nhất (Branching):
 Tạo nhánh để thử nghiệm mà không ảnh hưởng đến mã chính; sau đó có thể hợp nhất lại (merge) vào nhánh chính nếu cần.
 ### 6.Thực hành tốt khi dùng Git:
 - Thường xuyên *commit* và *pull* trước khi làm việc mới.
+- *push* thay đổi lên kho lưu trữ từ xa.
 - Tránh chỉnh sửa kho lưu trữ ".git" thủ công để tránh lỗi hệ thống.
