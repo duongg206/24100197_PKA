@@ -1,6 +1,6 @@
 # 24100197_PKA
 ##### **TONG HOP KIEN THUC**
-## Bài 1: Các Khái Niệm Cơ Bản
+  ## Bài 1: Các Khái Niệm Cơ Bản
 ### 1. Giới thiệu về máy tính
 Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất dữ liệu, được ứng dụng trong nhiều lĩnh vực như giáo dục, kinh doanh và sản xuất.
 ### 2. Phân loại thành phần máy tính
