@@ -1,8 +1,9 @@
 # 24100197_PKA
 Tong hop kien thuc
 # Bài 1: Các Khái Niệm Cơ Bản
-## 1.Giới thiệu về máy tính
-**Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất dữ liệu, được ứng dụng trong nhiều lĩnh vực như giáo dục, kinh doanh và sản xuất.
+
+### 1.Giới thiệu về máy tính
+Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất dữ liệu, được ứng dụng trong nhiều lĩnh vực như giáo dục, kinh doanh và sản xuất.
 ## 2.Phân loại thành phần máy tính
  Gồm phần cứng (CPU, RAM, ổ cứng, bo mạch chủ, card đồ họa) và phần mềm (hệ điều hành và các ứng dụng).
 ## 3.Các loại máy tính
