@@ -67,7 +67,7 @@ Thư mục gốc "/" chứa các thư mục con như "/bin" (chương trình), "
 Giao diện dòng lệnh giúp thực hiện các tác vụ phức tạp, làm việc trên máy chủ từ xa và dễ tùy biến.
 **Lệnh Shell cơ bản:**
 Bao gồm "pwd" (in thư mục hiện tại), "cd" (thay đổi thư mục), "ls" (liệt kê tệp), và "man" (xem hướng dẫn lệnh).
-### 2.Quyền truy cập hệ thống tệp: 
+### 5.Quyền truy cập hệ thống tệp: 
 Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh "chmod" thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 ## Bài 5: Kiểm Soát Phiên Bản Với Git
 ### 1.Tổng quan về kiểm soát phiên bản:
@@ -81,7 +81,7 @@ Sử dụng phần mềm như CVS, SVN, Git để theo dõi thay đổi và qu�
 **Cục bộ:** Kho lưu trữ trên máy cá nhân.
 **Từ xa:** Trên GitHub hoặc GitLab, đảm bảo an toàn và chia sẻ dễ dàng.
 ### 4.Các lệnh Git cơ bản:
-**"git init":** Khởi tạo kho lưu trữ mới.  **"git add":** Thêm tập tin vào vùng chờ (staging area).
+**"git init":** Khởi tạo kho lưu trữ mới.       **"git add":** Thêm tập tin vào vùng chờ (staging area).
 **"git commit":** Xác nhận thay đổi vào kho lưu trữ cục bộ.
 **"git push" và "git pull":** Đồng bộ với kho từ xa.
 ### 5.Phân nhánh (Branching):
