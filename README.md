@@ -32,7 +32,20 @@ Từ những máy cơ học đến các máy tính hiện đại và siêu máy 
 ### c,Các thế hệ máy tính: 
 Gồm 5 thế hệ, từ sử dụng ống chân không đến vi xử lý, AI và máy tính lượng tử.
 ## 2: Biểu Diễn Thông Tin Và Hệ Thống Số
-Biểu diễn thông tin: Số hóa dữ liệu như âm thanh, hình ảnh; đơn vị đo thông tin từ bit đến GB.
-Hệ thống số: Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.
-Số nguyên có dấu: Cách biểu diễn và tính toán các số âm, dương trong nhị phân.
-Phép cộng - trừ trên số nguyên: Các phép toán với số nguyên có và không có dấu, kèm ví dụ tràn số.
+### a,Biểu diễn thông tin: 
+Số hóa dữ liệu như âm thanh, hình ảnh; đơn vị đo thông tin từ bit đến GB.
+### b,Hệ thống số: 
+Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.
+### c,Số nguyên có dấu: 
+Cách biểu diễn và tính toán các số âm, dương trong nhị phân.
+### d,Phép cộng - trừ trên số nguyên:
+Các phép toán với số nguyên có và không có dấu, kèm ví dụ tràn số.
+# 3: Kỹ Năng Sử Dụng Máy Tính Và Công Cụ
+## a,Quản lý tập tin và thư mục: 
+Cấu trúc thư mục, đường dẫn (Windows, Unix), và cách thao tác tập tin.
+## b,Sử dụng Google Drive: 
+Lưu trữ đám mây, tạo và chia sẻ tài liệu trực tuyến.
+## c,Tìm kiếm thông tin với Google: 
+Kỹ năng tìm kiếm hiệu quả, sử dụng từ khóa và các chức năng nâng cao.
+## d,Generative AI và ChatGPT: 
+Giới thiệu AI tạo sinh, kỹ thuật Prompting (Zero-shot, Few-shot, Chain-of-Thought) để nâng cao hiệu quả học tập và nghiên cứu.
