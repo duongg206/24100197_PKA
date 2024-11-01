@@ -60,9 +60,9 @@ Máy tính thực hiện phép cộng và trừ trên số nhị phân với cá
 - **Generative AI:** Là một dạng trí tuệ nhân tạo có khả năng tạo ra nội dung như văn bản, hình ảnh, và âm thanh dựa trên dữ liệu đã học. Điều này giúp tạo ra những nội dung mới và sáng tạo.
 - **ChatGPT:** ChatGPT là một mô hình AI sử dụng công nghệ Generative Pre-trained Transformer, có khả năng hiểu và trả lời câu hỏi của con người bằng ngôn ngữ tự nhiên. ChatGPT có thể được sử dụng trong nhiều lĩnh vực như trả lời câu hỏi, tóm tắt tài liệu, và trợ giúp viết code.
   ### 5.Prompt Engineering:
-- **Zero-shot Prompting:** Kỹ thuật này yêu cầu AI trả lời câu hỏi mà không cần cung cấp ngữ cảnh hoặc ví dụ trước đó. Ví dụ: “Giải thích khái niệm thuật toán Dijkstra trong 5 câu”.
-- **Few-shot Prompting:** Cung cấp một số ví dụ hoặc ngữ cảnh để AI hiểu rõ yêu cầu hơn. Ví dụ: “Viết code Python để tính tổng của một mảng số nguyên. Đây là ví dụ: [ví dụ code]”.
-- **Chain-of-Thought Prompt:** Hướng dẫn AI suy nghĩ từng bước. Ví dụ: "Hãy giải thích từng bước cách thuật toán quicksort hoạt động.” Điều này hữu ích cho các bài toán yêu cầu suy luận logic.
+- **Zero-shot Prompting:** Kỹ thuật này yêu cầu AI trả lời câu hỏi mà không cần cung cấp ngữ cảnh hoặc ví dụ trước đó. Ví dụ: "Giải thích khái niệm thuật toán Dijkstra trong 5 câu".
+- **Few-shot Prompting:** Cung cấp một số ví dụ hoặc ngữ cảnh để AI hiểu rõ yêu cầu hơn. Ví dụ: "Viết code Python để tính tổng của một mảng số nguyên. Đây là ví dụ: [ví dụ code]".
+- **Chain-of-Thought Prompt:** Hướng dẫn AI suy nghĩ từng bước. Ví dụ: "Hãy giải thích từng bước cách thuật toán quicksort hoạt động." Điều này hữu ích cho các bài toán yêu cầu suy luận logic.
 ### 6.Ứng dụng ChatGPT trong học tập:
 - **Tóm tắt tài liệu học thuật:** Ví dụ, sinh viên có thể yêu cầu ChatGPT tóm tắt một bài báo phức tạp chỉ trong vài câu ngắn gọn.
 - **Giải bài tập lập trình:** ChatGPT có thể trợ giúp viết code hoặc tìm ra lỗi trong mã.
