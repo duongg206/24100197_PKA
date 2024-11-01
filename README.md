@@ -75,7 +75,7 @@ Bao gồm Ubuntu, Linux Mint, Kali Linux… Sử dụng Debian Package (.deb) v�
 - **Dựa trên Red Hat:**
 Gồm Red Hat Enterprise Linux, Fedora, CentOS… Dùng Red Hat Package (.rpm) và yum.
 ### 3. Hệ thống tệp Linux:
-Thư mục gốc "/" chứa các thư mục con như "/bin" (chương trình), "/etc" (tệp cấu hình), "/home" (thư mục người dùng), "/proc" Chạy chương trình (quy trình), "/tmp" và "/var" Tệp tạm thời, "/usr" Tài nguyên hệ thống phổ quát.
+Thư mục gốc "/" chứa các thư mục con như `/bin` (chương trình), `/etc` (tệp cấu hình), `/home` (thư mục người dùng), `/proc` Chạy chương trình (quy trình), `/tmp` và `/var` Tệp tạm thời, `/usr` Tài nguyên hệ thống phổ quát.
 ### 4. Shell và dòng lệnh:
 - **Shell:**
 Một chương trình tương tác cho phép người dùng tương tác với hệ điều hành và các ứng dụng của nó.
@@ -115,4 +115,3 @@ Tạo nhánh để thử nghiệm mà không ảnh hưởng đến mã chính; s
 - Thường xuyên *commit* và *pull* trước khi làm việc mới.
 - *push* thay đổi lên kho lưu trữ từ xa.
 - Tránh chỉnh sửa kho lưu trữ ".git" thủ công để tránh lỗi hệ thống.
-`m`
