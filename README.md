@@ -81,10 +81,9 @@ Sử dụng phần mềm như CVS, SVN, Git để theo dõi thay đổi và qu�
 **Cục bộ:** Kho lưu trữ trên máy cá nhân.
 **Từ xa:** Trên GitHub hoặc GitLab, đảm bảo an toàn và chia sẻ dễ dàng.
 ### 4.Các lệnh Git cơ bản:
-"git init": Khởi tạo kho lưu trữ mới.
-"git add": Thêm tập tin vào vùng chờ (staging area).
-"git commit": Xác nhận thay đổi vào kho lưu trữ cục bộ.
-"git push" và "git pull": Đồng bộ với kho từ xa.
+**"git init":** Khởi tạo kho lưu trữ mới.  **"git add":** Thêm tập tin vào vùng chờ (staging area).
+**"git commit":** Xác nhận thay đổi vào kho lưu trữ cục bộ.
+**"git push" và "git pull":** Đồng bộ với kho từ xa.
 ### 5.Phân nhánh (Branching):
 Tạo nhánh để thử nghiệm mà không ảnh hưởng đến mã chính; sau đó có thể hợp nhất lại (merge) vào nhánh chính nếu cần.
 ### 6.Thực hành tốt khi dùng Git:
