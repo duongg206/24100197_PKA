@@ -11,7 +11,28 @@ Tong hop kien thuc
  Từ các máy cơ học đầu tiên của Jacques de Vaucanson và Charles Babbage, đến máy tính điện tử như ENIAC, UNIVAC, IBM 7030 Stretch và các máy tính hiện đại ngày nay.
 ## 5.Các thế hệ máy tính
  Gồm 5 thế hệ, từ sử dụng ống chân không đến transistor, mạch tích hợp, vi xử lý, và hiện tại là trí tuệ nhân tạo và máy tính lượng tử.
-## Bài 2: Biểu Diễn Thông Tin và Hệ Thống Số
-## Biểu diễn thông tin:
--Thông tin trong máy tính được số hóa thành các dạng như hình ảnh, âm thanh, và văn bản, sử dụng mã nhị phân (0 và 1).
--Đơn vị thông tin nhỏ nhất là bit, với các đơn vị lớn hơn như Byte, KB, MB, GB.
+# Bài 2: Biểu Diễn Thông Tin và Hệ Thống Số
+## 1.Biểu diễn thông tin:
+Thông tin trong máy tính được số hóa thành các dạng như hình ảnh, âm thanh, và văn bản, sử dụng mã nhị phân (0 và 1).Đơn vị thông tin nhỏ nhất là bit, với các đơn vị lớn hơn như Byte, KB, MB, GB.
+## 2.Hệ thống số:
+Có hai loại hệ thống số: có vị trí (ví dụ thập phân, nhị phân) và không có vị trí (ví dụ số La Mã).
+Các hệ thống cơ bản gồm thập phân (cơ số 10), nhị phân (cơ số 2), bát phân (cơ số 8), và thập lục phân (cơ số 16).
+## 3.Chuyển đổi giữa các hệ thống số:
+Hướng dẫn cách chuyển đổi giữa các hệ, ví dụ từ thập phân sang nhị phân và ngược lại.
+## 4.Số nguyên có dấu:
+Cách biểu diễn số âm và số dương trong hệ nhị phân, sử dụng các phương pháp như số bù 1, bù 2.
+## 5.Phép cộng và trừ trên số nguyên:
+Giới thiệu các phép cộng, trừ trên số nguyên có và không có dấu, kèm ví dụ về các trường hợp tràn số khi tính toán.
+# Bài 3: Kĩ Năng Sử Dụng Máy Tính và Công Cụ
+##  1: Các Khái Niệm Cơ Bản
+### a, Giới thiệu về máy tính:
+Định nghĩa, chức năng và phân loại máy tính (phần cứng và phần mềm).
+### b, Lịch sử phát triển:
+Từ những máy cơ học đến các máy tính hiện đại và siêu máy tính.
+### c,Các thế hệ máy tính: 
+Gồm 5 thế hệ, từ sử dụng ống chân không đến vi xử lý, AI và máy tính lượng tử.
+## 2: Biểu Diễn Thông Tin Và Hệ Thống Số
+Biểu diễn thông tin: Số hóa dữ liệu như âm thanh, hình ảnh; đơn vị đo thông tin từ bit đến GB.
+Hệ thống số: Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.
+Số nguyên có dấu: Cách biểu diễn và tính toán các số âm, dương trong nhị phân.
+Phép cộng - trừ trên số nguyên: Các phép toán với số nguyên có và không có dấu, kèm ví dụ tràn số.
