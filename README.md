@@ -71,7 +71,7 @@ Bao gồm "pwd" (in thư mục hiện tại), "cd" (thay đổi thư mục), "ls
 Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh "chmod" thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 # Bài 5: Kiểm Soát Phiên Bản Với Git
 ## 1.Tổng quan về kiểm soát phiên bản:
-### Phiên bản cá nhân: 
+***Phiên bản cá nhân:***
 Dễ dàng quay lại phiên bản trước nếu có lỗi.
 ### Phiên bản nhóm: 
 Cho phép nhiều người làm việc cùng lúc mà không ghi đè lên công việc của nhau.
