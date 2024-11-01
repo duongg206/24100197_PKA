@@ -13,8 +13,8 @@ Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất d�
  Gồm 5 thế hệ, từ sử dụng ống chân không đến transistor, mạch tích hợp, vi xử lý, và hiện tại là trí tuệ nhân tạo và máy tính lượng tử.
 ## Bài 2: Biểu Diễn Thông Tin và Hệ Thống Số
 ### 1.Biểu diễn thông tin:
- -Thông tin trong máy tính được số hóa thành các dạng như hình ảnh, âm thanh, và văn bản, sử dụng mã nhị phân (0 và 1).
- -Đơn vị thông tin nhỏ nhất là bit, với các đơn vị lớn hơn như Byte, KB, MB, GB.
+- Thông tin trong máy tính được số hóa thành các dạng như hình ảnh, âm thanh, và văn bản, sử dụng mã nhị phân (0 và 1).
+- Đơn vị thông tin nhỏ nhất là bit, với các đơn vị lớn hơn như Byte, KB, MB, GB.
 ### 2.Hệ thống số:
 Có hai loại hệ thống số: có vị trí (ví dụ thập phân, nhị phân) và không có vị trí (ví dụ số La Mã).
 Các hệ thống cơ bản gồm thập phân (cơ số 10), nhị phân (cơ số 2), bát phân (cơ số 8), và thập lục phân (cơ số 16).
