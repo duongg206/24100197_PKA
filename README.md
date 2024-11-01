@@ -56,14 +56,14 @@ Máy tính thực hiện phép cộng và trừ trên số nhị phân với cá
 - *Sử dụng từ khóa cụ thể:* Thay vì tìm kiếm chung chung, người dùng nên dùng từ khóa chính xác hơn. Ví dụ, thay vì "điện thoại", nên dùng "điện thoại Samsung Galaxy S21".
 - *Tìm kiếm cụm từ chính xác:* Đặt từ khóa trong dấu ngoặc kép để tìm cụm từ chính xác (ví dụ: "hướng dẫn cài đặt Windows 10").
 - *Loại trừ từ khóa:* Sử dụng dấu trừ ( - ) để loại bỏ kết quả không mong muốn (ví dụ: "túi xách -hàng nhái").
-### 4:Generative AI và ChatGPT:
+### 4. Generative AI và ChatGPT:
 - **Generative AI:** Là một dạng trí tuệ nhân tạo có khả năng tạo ra nội dung như văn bản, hình ảnh, và âm thanh dựa trên dữ liệu đã học. Điều này giúp tạo ra những nội dung mới và sáng tạo.
 - **ChatGPT:** ChatGPT là một mô hình AI sử dụng công nghệ Generative Pre-trained Transformer, có khả năng hiểu và trả lời câu hỏi của con người bằng ngôn ngữ tự nhiên. ChatGPT có thể được sử dụng trong nhiều lĩnh vực như trả lời câu hỏi, tóm tắt tài liệu, và trợ giúp viết code.
-### 5.Prompt Engineering:
+### 5. Prompt Engineering:
 - **Zero-shot Prompting:** Kỹ thuật này yêu cầu AI trả lời câu hỏi mà không cần cung cấp ngữ cảnh hoặc ví dụ trước đó. Ví dụ: "Giải thích khái niệm thuật toán Dijkstra trong 5 câu".
 - **Few-shot Prompting:** Cung cấp một số ví dụ hoặc ngữ cảnh để AI hiểu rõ yêu cầu hơn. Ví dụ: "Viết code Python để tính tổng của một mảng số nguyên. Đây là ví dụ: [ví dụ code]".
 - **Chain-of-Thought Prompt:** Hướng dẫn AI suy nghĩ từng bước. Ví dụ: "Hãy giải thích từng bước cách thuật toán quicksort hoạt động." Điều này hữu ích cho các bài toán yêu cầu suy luận logic.
-### 6.Ứng dụng ChatGPT trong học tập:
+### 6. Ứng dụng ChatGPT trong học tập:
 - **Tóm tắt tài liệu học thuật:** Ví dụ, sinh viên có thể yêu cầu ChatGPT tóm tắt một bài báo phức tạp chỉ trong vài câu ngắn gọn.
 - **Giải bài tập lập trình:** ChatGPT có thể trợ giúp viết code hoặc tìm ra lỗi trong mã.
 - **Tìm kiếm thông tin:** Hỏi ChatGPT về các khái niệm hoặc thuật ngữ mới.
