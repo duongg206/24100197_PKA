@@ -89,7 +89,7 @@ Bao gồm `pwd` (in thư mục hiện tại), `cd` (thay đổi thư mục), `ls
 - **Lệnh thư mục:** `ls` Liệt kê các tập tin trong thư mục làm việc, `pwd` In thư mục làm việc hiện tại, `cd` Thay đổi thư mục làm việc, `mkdir` Tạo một thư mục mới, `rmdir` Xóa thư mục đã cho (phải trống)
 - **Lệnh tệp** `cat` Hiển thị nội dung tệp, `cp` Sao chép tệp, `mv` Di chuyển tệp (cũng được sử dụng để đổi tên tệp), `rm` Xóa tệp đã cho, `touch` Tạo tệp trống hoặc thay đổi thời gian sửa đổi
 ### 6. Quyền truy cập hệ thống tệp: 
-Mỗi người dùng có thể sở hữu một hoặc nhiều thư mục '/' tệp. Mỗi người dùng có quyền truy cập khác nhau trong các thư mục / tệp khác nhau.Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh `chmod` thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
+Mỗi người dùng có thể sở hữu một hoặc nhiều thư mục `/` tệp. Mỗi người dùng có quyền truy cập khác nhau trong các thư mục `/` tệp khác nhau. Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh `chmod` thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 ## Bài 5: Kiểm Soát Phiên Bản Với Git
 ### 1. Tổng quan về kiểm soát phiên bản:
 - **Phiên bản cá nhân:**
@@ -114,6 +114,6 @@ Sử dụng phần mềm như CVS, SVN, Git để theo dõi thay đổi và qu�
 ### 5. Phân nhánh và hợp nhất (Branching):
 Tạo nhánh để thử nghiệm mà không ảnh hưởng đến mã chính; sau đó có thể hợp nhất lại (merge) vào nhánh chính nếu cần.
 ### 6. Thực hành tốt khi dùng Git:
-- Thường xuyên *commit* và *pull* trước khi làm việc mới.
-- *push* thay đổi lên kho lưu trữ từ xa.
+- Thường xuyên `commit` và `pull` trước khi làm việc mới.
+- `push` thay đổi lên kho lưu trữ từ xa.
 - Tránh chỉnh sửa kho lưu trữ `.git` thủ công để tránh lỗi hệ thống.
