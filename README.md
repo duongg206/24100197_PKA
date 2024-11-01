@@ -46,6 +46,8 @@ Máy tính thực hiện phép cộng và trừ trên số nhị phân với cá
 - *Tập tin:* Đơn vị lưu trữ dữ liệu (text, audio, image) có tên và dung lượng cụ thể.
 - *Thư mục:* Đơn vị logic chứa các tập tin và thư mục con để tổ chức dữ liệu hiệu quả, tránh nhầm lẫn và dễ tìm kiếm.
 - Cấu trúc cây thư mục giúp tổ chức dữ liệu phân cấp từ thư mục gốc, ví dụ, đường dẫn 'tuyệt đối' (C:\Program Files) và 'tương đối' (../../home/my_directory).
+
+
   **Sử dụng Google Drive:**
 Lưu trữ đám mây, tạo và chia sẻ tài liệu trực tuyến.
   **Tìm kiếm thông tin với Google:**
