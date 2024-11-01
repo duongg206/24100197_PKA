@@ -82,12 +82,12 @@ Một chương trình tương tác cho phép người dùng tương tác với h
 - **Cấu trúc dòng lệnh:**
 Dòng lệnh là cách thích hợp nhất để làm việc với Linux.
 - **Lệnh Shell cơ bản:**
-Bao gồm "pwd" (in thư mục hiện tại), "cd" (thay đổi thư mục), "ls" (liệt kê tệp), và "man" (xem hướng dẫn lệnh), "exit" Đăng xuất khỏi shell.
-- **Lệnh hệ thống:** "clear" Xóa tất cả đầu ra khỏi bảng điều khiển, "date" Xuất ngày hệ thống, "cal" Xuất lịch văn bản, "uname" In thông tin về hệ thống hiện tại
-- **Lệnh thư mục:** "ls" Liệt kê các tập tin trong thư mục làm việc, "pwd" In thư mục làm việc hiện tại, "cd" Thay đổi thư mục làm việc, "mkdir" Tạo một thư mục mới, "rmdir" Xóa thư mục đã cho (phải trống)
-- **Lệnh tệp** "cat" Hiển thị nội dung tệp, "cp" Sao chép tệp, "mv" Di chuyển tệp (cũng được sử dụng để đổi tên tệp), "rm" Xóa tệp đã cho, "touch" Tạo tệp trống hoặc thay đổi thời gian sửa đổi
+Bao gồm `pwd` (in thư mục hiện tại), `cd` (thay đổi thư mục), `ls` (liệt kê tệp), và `man` (xem hướng dẫn lệnh), `exit` Đăng xuất khỏi shell.
+- **Lệnh hệ thống:** `clear` Xóa tất cả đầu ra khỏi bảng điều khiển, `date` Xuất ngày hệ thống, `cal` Xuất lịch văn bản, `uname` In thông tin về hệ thống hiện tại
+- **Lệnh thư mục:** `ls` Liệt kê các tập tin trong thư mục làm việc, `pwd` In thư mục làm việc hiện tại, `cd` Thay đổi thư mục làm việc, `mkdir` Tạo một thư mục mới, `rmdir` Xóa thư mục đã cho (phải trống)
+- **Lệnh tệp** `cat` Hiển thị nội dung tệp, `cp` Sao chép tệp, `mv` Di chuyển tệp (cũng được sử dụng để đổi tên tệp), `rm` Xóa tệp đã cho, `touch` Tạo tệp trống hoặc thay đổi thời gian sửa đổi
 ### 5. Quyền truy cập hệ thống tệp: 
-Mỗi người dùng có thể sở hữu một hoặc nhiều thư mục '/' tệp. Mỗi người dùng có quyền truy cập khác nhau trong các thư mục / tệp khác nhau.Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh "chmod" thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
+Mỗi người dùng có thể sở hữu một hoặc nhiều thư mục '/' tệp. Mỗi người dùng có quyền truy cập khác nhau trong các thư mục / tệp khác nhau.Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh `chmod` thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 ## Bài 5: Kiểm Soát Phiên Bản Với Git
 ### 1. Tổng quan về kiểm soát phiên bản:
 - **Phiên bản cá nhân:**
@@ -105,13 +105,13 @@ Sử dụng phần mềm như CVS, SVN, Git để theo dõi thay đổi và qu�
 
 **Từ xa:** Trên GitHub hoặc GitLab, đảm bảo an toàn và chia sẻ dễ dàng.
 ### 4. Các lệnh Git cơ bản:
-- **"git init":** Khởi tạo kho lưu trữ mới.
-- **"git add":** Thêm tập tin vào vùng chờ (staging area).
-- **"git commit":** Xác nhận thay đổi vào kho lưu trữ cục bộ.
-- **"git push" và "git pull":** Đồng bộ với kho từ xa.
+- `git init`: Khởi tạo kho lưu trữ mới.
+- `git add`: Thêm tập tin vào vùng chờ (staging area).
+- `git commit`: Xác nhận thay đổi vào kho lưu trữ cục bộ.
+- `git push"` và `git pull`: Đồng bộ với kho từ xa.
 ### 5. Phân nhánh và hợp nhất (Branching):
 Tạo nhánh để thử nghiệm mà không ảnh hưởng đến mã chính; sau đó có thể hợp nhất lại (merge) vào nhánh chính nếu cần.
 ### 6. Thực hành tốt khi dùng Git:
 - Thường xuyên *commit* và *pull* trước khi làm việc mới.
 - *push* thay đổi lên kho lưu trữ từ xa.
-- Tránh chỉnh sửa kho lưu trữ ".git" thủ công để tránh lỗi hệ thống.
+- Tránh chỉnh sửa kho lưu trữ `.git` thủ công để tránh lỗi hệ thống.
