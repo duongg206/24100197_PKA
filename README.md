@@ -2,7 +2,7 @@
 Tong hop kien thuc
 # Bài 1: Các Khái Niệm Cơ Bản
 ## 1.Giới thiệu về máy tính
- Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất dữ liệu, được ứng dụng trong nhiều lĩnh vực như giáo dục, kinh doanh và sản xuất.
+**Máy tính là thiết bị điện tử xử lý, lưu trữ và truy xuất dữ liệu, được ứng dụng trong nhiều lĩnh vực như giáo dục, kinh doanh và sản xuất.
 ## 2.Phân loại thành phần máy tính
  Gồm phần cứng (CPU, RAM, ổ cứng, bo mạch chủ, card đồ họa) và phần mềm (hệ điều hành và các ứng dụng).
 ## 3.Các loại máy tính
@@ -49,3 +49,23 @@ Lưu trữ đám mây, tạo và chia sẻ tài liệu trực tuyến.
 Kỹ năng tìm kiếm hiệu quả, sử dụng từ khóa và các chức năng nâng cao.
 ## d,Generative AI và ChatGPT: 
 Giới thiệu AI tạo sinh, kỹ thuật Prompting (Zero-shot, Few-shot, Chain-of-Thought) để nâng cao hiệu quả học tập và nghiên cứu.
+# Bài 4: Hệ Điều Hành Linux
+## 1.Giới thiệu Linux và Unix:
+### a,Unix:
+Ra đời năm 1969, phát triển tại Bell Labs với các tính năng như nhiều người dùng, hệ thống tệp phân cấp. macOS cũng là một dạng hệ điều hành Unix.
+### b,Linux: 
+Phát triển năm 1992 bởi Linus Torvalds, cũng là người phát triển Git. Linux là mã nguồn mở và có nhiều bản phân phối khác nhau.
+## 2.Các bản phân phối Linux:
+### a,Dựa trên Debian: 
+Bao gồm Ubuntu, Linux Mint, Kali Linux… Sử dụng Debian Package (.deb) và apt để quản lý phần mềm.
+### b,Dựa trên Red Hat: 
+Gồm Red Hat Enterprise Linux, Fedora, CentOS… Dùng Red Hat Package (.rpm) và yum.
+## 3.Hệ thống tệp Linux:
+Thư mục gốc "/" chứa các thư mục con như "/bin" (chương trình), "/etc" (tệp cấu hình), "/home" (thư mục người dùng),...
+## 4.Shell và dòng lệnh:
+### a,Shell: 
+Giao diện dòng lệnh giúp thực hiện các tác vụ phức tạp, làm việc trên máy chủ từ xa và dễ tùy biến.
+### b,Lệnh Shell cơ bản: 
+Bao gồm "pwd" (in thư mục hiện tại), "cd" (thay đổi thư mục), "ls" (liệt kê tệp), và "man" (xem hướng dẫn lệnh).
+## 2.Quyền truy cập hệ thống tệp: 
+Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh "chmod" thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
