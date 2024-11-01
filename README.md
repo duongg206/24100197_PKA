@@ -25,53 +25,53 @@ Cách biểu diễn số âm và số dương trong hệ nhị phân, sử dụn
 Giới thiệu các phép cộng, trừ trên số nguyên có và không có dấu, kèm ví dụ về các trường hợp tràn số khi tính toán.
 # Bài 3: Kĩ Năng Sử Dụng Máy Tính và Công Cụ
 ##  1: Các Khái Niệm Cơ Bản
-### a, Giới thiệu về máy tính:
+**Giới thiệu về máy tính:**
 Định nghĩa, chức năng và phân loại máy tính (phần cứng và phần mềm).
-### b, Lịch sử phát triển:
+**Lịch sử phát triển:**
 Từ những máy cơ học đến các máy tính hiện đại và siêu máy tính.
-### c,Các thế hệ máy tính: 
+**Các thế hệ máy tính:**
 Gồm 5 thế hệ, từ sử dụng ống chân không đến vi xử lý, AI và máy tính lượng tử.
 ## 2: Biểu Diễn Thông Tin Và Hệ Thống Số
-### a,Biểu diễn thông tin: 
+**Biểu diễn thông tin:**
 Số hóa dữ liệu như âm thanh, hình ảnh; đơn vị đo thông tin từ bit đến GB.
-### b,Hệ thống số: 
+**Hệ thống số:**
 Các hệ thống thập phân, nhị phân, bát phân, thập lục phân, cùng cách chuyển đổi giữa các hệ.
-### c,Số nguyên có dấu: 
+**Số nguyên có dấu:**
 Cách biểu diễn và tính toán các số âm, dương trong nhị phân.
-### d,Phép cộng - trừ trên số nguyên:
+**Phép cộng - trừ trên số nguyên:**
 Các phép toán với số nguyên có và không có dấu, kèm ví dụ tràn số.
 ## 3: Kỹ Năng Sử Dụng Máy Tính Và Công Cụ
-## a,Quản lý tập tin và thư mục: 
+**Quản lý tập tin và thư mục:**
 Cấu trúc thư mục, đường dẫn (Windows, Unix), và cách thao tác tập tin.
-## b,Sử dụng Google Drive: 
+**Sử dụng Google Drive:**
 Lưu trữ đám mây, tạo và chia sẻ tài liệu trực tuyến.
-## c,Tìm kiếm thông tin với Google: 
+**Tìm kiếm thông tin với Google:**
 Kỹ năng tìm kiếm hiệu quả, sử dụng từ khóa và các chức năng nâng cao.
-## d,Generative AI và ChatGPT: 
+**Generative AI và ChatGPT:**
 Giới thiệu AI tạo sinh, kỹ thuật Prompting (Zero-shot, Few-shot, Chain-of-Thought) để nâng cao hiệu quả học tập và nghiên cứu.
 # Bài 4: Hệ Điều Hành Linux
 ## 1.Giới thiệu Linux và Unix:
-### a,Unix:
+**Unix:**
 Ra đời năm 1969, phát triển tại Bell Labs với các tính năng như nhiều người dùng, hệ thống tệp phân cấp. macOS cũng là một dạng hệ điều hành Unix.
-### b,Linux: 
+**Linux:**
 Phát triển năm 1992 bởi Linus Torvalds, cũng là người phát triển Git. Linux là mã nguồn mở và có nhiều bản phân phối khác nhau.
 ## 2.Các bản phân phối Linux:
-### a,Dựa trên Debian: 
+**Dựa trên Debian:**
 Bao gồm Ubuntu, Linux Mint, Kali Linux… Sử dụng Debian Package (.deb) và apt để quản lý phần mềm.
-### b,Dựa trên Red Hat: 
+**Dựa trên Red Hat:**
 Gồm Red Hat Enterprise Linux, Fedora, CentOS… Dùng Red Hat Package (.rpm) và yum.
 ## 3.Hệ thống tệp Linux:
 Thư mục gốc "/" chứa các thư mục con như "/bin" (chương trình), "/etc" (tệp cấu hình), "/home" (thư mục người dùng),...
 ## 4.Shell và dòng lệnh:
-### a,Shell: 
+**Shell:**
 Giao diện dòng lệnh giúp thực hiện các tác vụ phức tạp, làm việc trên máy chủ từ xa và dễ tùy biến.
-### b,Lệnh Shell cơ bản: 
+**Lệnh Shell cơ bản:**
 Bao gồm "pwd" (in thư mục hiện tại), "cd" (thay đổi thư mục), "ls" (liệt kê tệp), và "man" (xem hướng dẫn lệnh).
 ## 2.Quyền truy cập hệ thống tệp: 
 Các quyền bao gồm đọc (r), ghi (w), và thực thi (x), được thiết lập cho chủ sở hữu, nhóm và người khác.Lệnh "chmod" thay đổi quyền truy cập bằng cách chỉ định số hoặc ký hiệu tương ứng.
 # Bài 5: Kiểm Soát Phiên Bản Với Git
 ## 1.Tổng quan về kiểm soát phiên bản:
-***Phiên bản cá nhân:***
+**Phiên bản cá nhân:**
 Dễ dàng quay lại phiên bản trước nếu có lỗi.
-### Phiên bản nhóm: 
+**Phiên bản nhóm:** 
 Cho phép nhiều người làm việc cùng lúc mà không ghi đè lên công việc của nhau.
